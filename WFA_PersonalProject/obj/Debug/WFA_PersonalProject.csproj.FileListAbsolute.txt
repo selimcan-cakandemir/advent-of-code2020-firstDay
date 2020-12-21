@@ -1,0 +1,10 @@
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\bin\Debug\WFA_PersonalProject.exe.config
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\bin\Debug\WFA_PersonalProject.exe
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\bin\Debug\WFA_PersonalProject.pdb
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\obj\Debug\WFA_PersonalProject.csprojAssemblyReference.cache
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\obj\Debug\WFA_PersonalProject.Form1.resources
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\obj\Debug\WFA_PersonalProject.Properties.Resources.resources
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\obj\Debug\WFA_PersonalProject.csproj.GenerateResource.cache
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\obj\Debug\WFA_PersonalProject.csproj.CoreCompileInputs.cache
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\obj\Debug\WFA_PersonalProject.exe
+C:\Users\sccde\source\repos\WFA_PersonalProject\WFA_PersonalProject\obj\Debug\WFA_PersonalProject.pdb
